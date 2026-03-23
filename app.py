@@ -2,9 +2,7 @@ import random
 import streamlit as st
 from logic_utils import check_guess, parse_guess, get_range_for_difficulty, update_score
 
-#FIX: Refactored parse_guess and check_guess logic into logic_utils.py using Copilot Agent mode.
-# Range logic was moved to `logic_utils.get_range_for_difficulty` to provide a
-# single source of truth for difficulty ranges used by the app and tests.
+#FIX: Refactored parse_guess, check_guess, get_range_for_difficulty, and update_score logic into logic_utils.py using Copilot Agent mode.
 
 
 

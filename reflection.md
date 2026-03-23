@@ -57,5 +57,13 @@ My answer: Basically, Streamlit resets your entire script after every interactio
 
 - What is one habit or strategy from this project that you want to reuse in future labs or projects?
   - This could be a testing habit, a prompting strategy, or a way you used Git.
+
+Using Copilot/Claude Code to speed up my debugging process by having it look for any bugs in the program, so that any bugs that I failed to catch, the AI catches it and gives me fixes for it.
+
 - What is one thing you would do differently next time you work with AI on a coding task?
+
+Give the AI more efficient prompts telling it what to do.
+
 - In one or two sentences, describe how this project changed the way you think about AI generated code.
+
+I now no longer believe that all AI generated code is buggy. I can use AI to generate fixed code for me for small portions of my program that had bugs in them.
